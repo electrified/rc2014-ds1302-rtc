@@ -13,6 +13,6 @@ perl-rename -f 's/^(.*)-B.Mask.gbs$/$1.gbs/' gerbers/*.gbs
 perl-rename -f 's/^(.*)-Edge.Cuts.gm1$/$1.gml/' gerbers/*.gm1
 perl-rename -f 's/^(.*).drl$/$1.drl/' gerbers/*.drl
 
-rm rc2014-82c55-ide-gerbers.zip
+rm rc2014-ds1302-rtc-gerbers.zip
 
-zip -j rc2014-82c55-ide-gerbers.zip gerbers/*
+zip -j rc2014-ds1302-rtc-gerbers.zip gerbers/*
