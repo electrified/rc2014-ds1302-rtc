@@ -5,7 +5,7 @@
 ## The board
 RomWBW has code to support a DS1302 Real Time Clock, enabling files to be timestamped and other timekeeping operations. This board implements the clock in a standard way for the RC2014. 
 
-The design in largely based on the clock implementation on the [RetroBrew Computers SBC V2](https://retrobrewcomputers.org/doku.php?id=boards:sbc:sbc_v2:start) and [Zeta SBC V2](http://www.malinov.com/Home/sergeys-projects/zeta-sbc-v2).
+The design is largely based on the clock implementation on the [RetroBrew Computers SBC V2](https://retrobrewcomputers.org/doku.php?id=boards:sbc:sbc_v2:start) and [Zeta SBC V2](http://www.malinov.com/Home/sergeys-projects/zeta-sbc-v2).
 
 ## What can you use this for?
 Telling the time :)
