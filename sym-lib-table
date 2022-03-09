@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "rc2014-ds1302-rtc-rescue")(type "Legacy")(uri "${KIPRJMOD}/rc2014-ds1302-rtc-rescue.lib")(options "")(descr ""))
+  (lib (name "rc2014-ds1302-rtc")(type "Legacy")(uri "${KIPRJMOD}/rc2014-ds1302-rtc.lib")(options "")(descr ""))
+)

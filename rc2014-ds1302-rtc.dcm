@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 74LS174
-D Hex D-type FlipFlop, reset
-K TTL REG REG6 DFF
-$ENDCMP
-#
-#End Doc Library
